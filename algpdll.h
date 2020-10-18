@@ -1,3 +1,5 @@
+//created by Eduardo-H-R
+//linkdin www.linkedin.com/in/eduardo-h-r
 #include <iostream>
 #include <string.h>
 #include <string>
