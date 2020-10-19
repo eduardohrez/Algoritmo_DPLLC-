@@ -13,4 +13,4 @@ Se debe añadir una formula conjuntiva para que el algoritmo pueda procesarla._
 # Información del algoritmo 
 [DPLL Algorithm](https://en.wikipedia.org/wiki/DPLL_algorithm)
 # Autor
-[Eduardo-H](www.linkedin.com/in/eduardo-h-r)
+[Eduardo-H](https://github.com/eduardohrez)
